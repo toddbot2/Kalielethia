@@ -1,0 +1,54 @@
+body {
+	background: #000000 url('../images/outer-space1.jpg') center no-repeat; 
+	color: #F6F94B;
+	font-family: "Courier New", Helvetica, sans-serif;
+	font-weight: 200;
+
+}
+
+a:visited {
+	color: #94EED0;
+}
+
+a:link {
+	color: #94EED0;
+}
+
+li {
+	display: ;
+	padding: 0px;
+	font-size: 25px;
+	text-align: center;
+	list-style-type: none;
+	background: black;
+	border-left: 0px;
+	margin: 20px;
+	
+}
+
+ol {
+	padding: 0;
+}
+
+p {
+	margin: auto;
+	font-size: 20px;
+	
+}
+
+div#intro {
+	text-align: center;
+}
+
+h1 {
+	font-size: 75px;
+	font-weight: 200;
+	margin: 0 460px;
+	padding: 0px;
+	border: 0px;
+	font-weight: 200;
+}
+
+ul {
+	margin-top: 135px;
+}

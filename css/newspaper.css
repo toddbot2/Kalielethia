@@ -1,0 +1,59 @@
+body {
+	background: #000000; 
+	color: #F6F94B;
+	font-family: "Courier New", Helvetica, sans-serif;
+	font-weight: 200;
+
+}
+
+a:visited {
+	color: #94EED0;
+}
+
+a:link {
+	color: #94EED0;
+}
+
+li {
+	display: inline;
+	padding-bottom: 0px;
+	font-size: 65px;
+	text-align: center;
+	margin-bottom: 0px;
+	padding: 15px;
+}
+
+ol {
+	padding: 0;
+	margin: 0px;
+}
+
+p {
+	margin: auto;
+	font-size: 50px;
+	
+}
+
+p#contact {
+	margin-top: 15px;
+}
+
+p#comingsoon {
+	font-size: 25px;
+	margin: 0 0 0 245px;
+	
+}
+
+div#intro {
+	text-align: center;
+}
+
+h1 {
+	font-size: 75px;
+	margin: 0px;
+	margin-bottom: 0px;
+	font-weight: 200;
+
+	
+	
+}
